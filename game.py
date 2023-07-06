@@ -99,5 +99,5 @@ elif user_wins>Computer_wins :
 else :
     print("It's a Tie!")
 
-print("--------------------------------------------------")
+print("--------------------")
 
